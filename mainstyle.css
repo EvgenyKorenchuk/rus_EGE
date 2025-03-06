@@ -7,7 +7,7 @@
 body {
 	font-family: montserrat;
 	font-weight: 400;
-	font-size: 1.1rem;
+	font-size: 16px;
 	margin: 0;
 	padding: 0;
 	background-color: #fcf7e5;
@@ -56,12 +56,15 @@ body::-webkit-scrollbar-button:horizontal:increment {
 }
 
 h1 {
-	font-size: 2.5em;
+	font-size: 5.25em;
+	font-weight: 300;
 	text-align: center;
 	color: #022140;
 }
 
 h2 {
+	font-size: 1.6em;
+	font-weight: 550;
 	text-align: center;
 	color: #022140;
 }
@@ -256,7 +259,7 @@ embed {
 
 .btn2 {
 	font-size: 1em;
-	font-weight: 600;
+	font-weight: 300;
 	border: 4px #022140 solid;
 	padding: 30px;
 	width: 100%;
@@ -363,7 +366,7 @@ embed {
 .header1 {
 	color: #fcf7e5;
 	font-size: 2vw;
-	font-weight: 500;
+	font-weight: 300;
 	padding: 0.6vw;
 	padding-left: 4vw;
 	background-color: #022140;
@@ -428,12 +431,11 @@ embed {
 }
 
 .MHtitle {
-	width: 100%;
 	color: #fff;
-	font-size: 2.25em;
-	font-weight: 600;
+	font-size: 3.75em;
+	font-weight: 200;
 	text-align: center;
-	padding: 1.3vw;
+	padding: 2vw;
 	margin: auto;
 }
 
@@ -617,7 +619,7 @@ embed {
 .MPbtnText1 {
 	color: #fff;
 	font-size: 2.25em;
-	font-weight: 600;
+	font-weight: 300;
 }
 
 .MPbtnText2 {
@@ -730,12 +732,13 @@ embed {
 }
 
 .selB1 {
-	width: 50%;
+	width: 35%;
 	padding: 8%;
 	padding-top: 1vw;
 	padding-bottom: 1vw;
-	background-color: #bdd8ef;
+	background-color: #fff;
 	border: 0;
+	box-shadow: 0 0 1.3vw rgba(0, 0, 0, 0.05);
 	border-radius: 1vw;
 	margin: 0 auto;
 }
