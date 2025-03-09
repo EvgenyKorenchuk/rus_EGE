@@ -738,7 +738,7 @@ embed {
 	padding-bottom: 1vw;
 	background-color: #fff;
 	border: 0;
-	box-shadow: 0 0 1.3vw rgba(0, 0, 0, 0.05);
+	box-shadow: 0 0 1.3vw rgba(0, 0, 0, 0.15);
 	border-radius: 1vw;
 	margin: 0 auto;
 }
